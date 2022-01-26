@@ -30,7 +30,7 @@ class UniqueWordCounter():
         formats text using regular expressions, uses this mask '[!"#$%&()*+,-./:;<=>?@[\\]^_`{|}~]' to remove punctuation
         """
         urlResponse = self.__getURLData()
-        punctuationToRemove = '[' + string.punctuation.replace("'", "") + ']'
+        punctuationToRemove = '[0-9' + string.punctuation.replace("'", "") + ']'
         self.formattedText = re.sub(punctuationToRemove, ' ', urlResponse.text)
 
     def __getEntireTextSplit(self):

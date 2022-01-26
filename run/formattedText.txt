@@ -4,7 +4,7 @@ Edited by Barbara A  Mowat and Paul Werstine
   with Michael Poston and Rebecca Niles
 Folger Shakespeare Library
 https   shakespeare folger edu shakespeares works romeo and juliet 
-Created on Jul 31  2015  from FDT version 0 9 2
+Created on Jul           from FDT version      
 
 Characters in the Play
                       
@@ -62,10 +62,10 @@ What here shall miss  our toil shall strive to mend
  Chorus exits  
 
 
-ACT 1
+ACT  
      
 
-Scene 1
+Scene  
        
  Enter Sampson and Gregory  with swords and bucklers 
 of the house of Capulet  
@@ -484,7 +484,7 @@ BENVOLIO
 I'll pay that doctrine or else die in debt 
  They exit  
 
-Scene 2
+Scene  
        
  Enter Capulet  County Paris  and a Servingman  
 
@@ -647,7 +647,7 @@ I'll go along  no such sight to be shown
 But to rejoice in splendor of mine own 
  They exit  
 
-Scene 3
+Scene  
        
  Enter Lady Capulet and Nurse  
 
@@ -824,7 +824,7 @@ NURSE
 Go  girl  seek happy nights to happy days 
  They exit  
 
-Scene 4
+Scene  
        
  Enter Romeo  Mercutio  Benvolio  with five or six other
 Maskers  Torchbearers  and a Boy with a drum  
@@ -1002,7 +1002,7 @@ BENVOLIO  Strike  drum
  They march about the stage
 and then withdraw to the side  
 
-Scene 5
+Scene  
        
  Servingmen come forth with napkins  
 
@@ -1269,7 +1269,7 @@ Come  let's away  The strangers all are gone
  They exit  
 
 
-ACT 2
+ACT  
      
 
 
@@ -1293,7 +1293,7 @@ But passion lends them power  time means  to meet
 Temp'ring extremities with extreme sweet 
  Chorus exits  
 
-Scene 1
+Scene  
        
  Enter Romeo alone  
 
@@ -1365,7 +1365,7 @@ BENVOLIO  Go  then  for 'tis in vain
 To seek him here that means not to be found 
  They exit  
 
-Scene 2
+Scene  
        
  Romeo comes forward  
 
@@ -1684,7 +1684,7 @@ Hence will I to my ghostly friar's close cell
 His help to crave  and my dear hap to tell 
  He exits  
 
-Scene 3
+Scene  
        
  Enter Friar Lawrence alone with a basket  
 
@@ -1829,7 +1829,7 @@ FRIAR LAWRENCE
 Wisely and slow  They stumble that run fast 
  They exit  
 
-Scene 4
+Scene  
        
  Enter Benvolio and Mercutio  
 
@@ -2161,7 +2161,7 @@ PETER  Anon
 NURSE  Before and apace 
  They exit  
 
-Scene 5
+Scene  
        
  Enter Juliet  
 
@@ -2286,7 +2286,7 @@ JULIET
 Hie to high fortune  Honest nurse  farewell 
  They exit  
 
-Scene 6
+Scene  
        
  Enter Friar Lawrence and Romeo  
 
@@ -2351,10 +2351,10 @@ Till Holy Church incorporate two in one
  They exit  
 
 
-ACT 3
+ACT  
      
 
-Scene 1
+Scene  
        
  Enter Mercutio  Benvolio  and their men  
 
@@ -2689,7 +2689,7 @@ Mercy but murders  pardoning those that kill
  They exit  the Capulet men
 bearing off Tybalt's body  
 
-Scene 2
+Scene  
        
  Enter Juliet alone  
 
@@ -2899,7 +2899,7 @@ Give this ring to my true knight
 And bid him come to take his last farewell 
  They exit  
 
-Scene 3
+Scene  
        
  Enter Friar Lawrence  
 
@@ -3176,7 +3176,7 @@ It were a grief so brief to part with thee
 Farewell 
  They exit  
 
-Scene 4
+Scene  
        
  Enter old Capulet  his Wife  and Paris  
 
@@ -3235,7 +3235,7 @@ Afore me  it is so very late that we
 May call it early by and by   Good night 
  They exit  
 
-Scene 5
+Scene  
        
  Enter Romeo and Juliet aloft  
 
@@ -3630,10 +3630,10 @@ If all else fail  myself have power to die
  She exits  
 
 
-ACT 4
+ACT  
      
 
-Scene 1
+Scene  
        
  Enter Friar Lawrence and County Paris  
 
@@ -3838,7 +3838,7 @@ afford
 Farewell  dear father 
  They exit in different directions  
 
-Scene 2
+Scene  
        
  Enter Father Capulet  Mother  Nurse  and Servingmen 
 two or three  
@@ -3931,7 +3931,7 @@ Against tomorrow  My heart is wondrous light
 Since this same wayward girl is so reclaimed 
  They exit  
 
-Scene 3
+Scene  
        
  Enter Juliet and Nurse  
 
@@ -4012,7 +4012,7 @@ Romeo  Romeo  Romeo  Here's drink  I drink to
 thee 	 She drinks and falls upon her bed
 within the curtains  
 
-Scene 4
+Scene  
        
  Enter Lady Capulet and Nurse  
 
@@ -4084,7 +4084,7 @@ Make haste  The bridegroom he is come already
 Make haste  I say 
  He exits  
 
-Scene 5
+Scene  
        
 
 NURSE   approaching the bed 
@@ -4328,10 +4328,10 @@ here  tarry for the mourners  and stay dinner
  They exit  
 
 
-ACT 5
+ACT  
      
 
-Scene 1
+Scene  
        
  Enter Romeo  
 
@@ -4464,7 +4464,7 @@ Come  cordial and not poison  go with me
 To Juliet's grave  for there must I use thee 
  He exits  
 
-Scene 2
+Scene  
        
  Enter Friar John  
 
@@ -4520,7 +4520,7 @@ And keep her at my cell till Romeo come
 Poor living corse  closed in a dead man's tomb 
  He exits  
 
-Scene 3
+Scene  
        
  Enter Paris and his Page  
 
