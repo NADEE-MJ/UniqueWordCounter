@@ -27,7 +27,7 @@ class UniqueWordCounter():
         """
         (self) -> (none)
 
-        formats text using regular expressions, uses this mask '[!"#$%&()*+,-./:;<=>?@[\\]^_`{|}~]' to remove punctuation
+        formats text using regular expressions, uses this mask '[0-9!"#$%&()*+,-./:;<=>?@[\\]^_`{|}~]' to remove punctuation
         """
         urlResponse = self.__getURLData()
         punctuationToRemove = '[0-9' + string.punctuation.replace("'", "") + ']'
@@ -65,7 +65,7 @@ class UniqueWordCounter():
         using counter class, finds the top 10 most common words and # of occurances
         then adds them all to a string and returns it
         """
-        topTenString = "#. | Word | # of Occurances\n"
+        topTenString = "Top Ten Words in Text\n#. | Word | # of Occurances\n"
         topTen = self.uniqueWords.most_common(10)
         count = 1
         for word in topTen:

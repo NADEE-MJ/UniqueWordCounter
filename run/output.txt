@@ -1,5 +1,6 @@
 There are 3761 unqiue words in the provided text!
 
+Top Ten Words in Text
 #. | Word | # of Occurances
 1. | and | 720
 2. | the | 686
