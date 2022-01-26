@@ -9,10 +9,11 @@ def main():
     url = "https://shakespeare.folger.edu/downloads/txt/romeo-and-juliet_TXT_FolgerShakespeare.txt"
     rAndJ = c.UniqueWordCounter(url)
     rAndJ.getUniqueWords()
-    rAndJ.printNumberOfUniqueWords()
-    rAndJ.printTopTenWords()
+    print(rAndJ.getNumberOfUniqueWords())
+    print(rAndJ.getTopTenWords())
 
-    #the following two lines are for testing purposes
+    #the following three lines are for testing purposes
+    rAndJ.saveNumberOfUniquesAndTopTen("run//output.txt")
     rAndJ.saveFormattedText("run//formattedText.txt")
     rAndJ.saveUniqueWords("run//uniqueWords.json")
 

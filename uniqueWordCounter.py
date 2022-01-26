@@ -1,4 +1,3 @@
-from itertools import count
 import requests, re, string
 from collections import Counter
 import json
@@ -26,16 +25,24 @@ class UniqueWordCounter():
     def getUniqueWords(self):
         self.uniqueWords = Counter(self.EntireTextSplit)
 
-    def printNumberOfUniqueWords(self):
-        print("There are %d unqiue words in the provided text!" % (len(self.uniqueWords))) 
+    def getNumberOfUniqueWords(self):
+        return "There are %d unqiue words in the provided text!\n" % (len(self.uniqueWords))
 
-    def printTopTenWords(self):
+    def getTopTenWords(self):
+        topTenString = "#. | Word | # of Occurances\n"
         topTen = self.uniqueWords.most_common(10)
-        print("#. | Word | # of Occurances")
         count = 1
         for word in topTen:
-            print("%d. | %s | %d" % (count, word[0], word[1]))
+            topTenString += "%d. | %s | %d\n" % (count, word[0], word[1])
             count += 1
+        
+        return topTenString
+
+    def saveNumberOfUniquesAndTopTen(self, path):
+        f = open(path, 'w')
+        f.write(self.getNumberOfUniqueWords() + "\n")
+        f.write(self.getTopTenWords())
+        f.close()
 
     def saveFormattedText(self, path):
         f = open(path, 'w')

@@ -1,0 +1,13 @@
+There are 3771 unqiue words in the provided text!
+
+#. | Word | # of Occurances
+1. | and | 720
+2. | the | 686
+3. | i | 569
+4. | to | 539
+5. | a | 453
+6. | of | 385
+7. | my | 355
+8. | is | 348
+9. | that | 345
+10. | in | 320
